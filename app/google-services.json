@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216316348007",
+    "project_id": "online-to-do-list-e63f4",
+    "storage_bucket": "online-to-do-list-e63f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216316348007:android:cc5499c8ff897e5fb9b6c2",
+        "android_client_info": {
+          "package_name": "com.matrix_maeny.onlinetodolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216316348007-94mk4h05fjbf5bj330nqhbdpnn46uv06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSngoLwgY5SOVIt2HnrOy04DfI7tNu87k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216316348007-94mk4h05fjbf5bj330nqhbdpnn46uv06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

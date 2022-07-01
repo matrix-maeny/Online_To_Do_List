@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Online To Do List</string>
+    <string name="about_app">Hi, I\'m Matrix.\n\nThis app is a simple Online To do List where you can store your daily tasks in online storage.\n\n\nSerial no: 43\nDate of creation: 10 June 2022\nContact us: matrixinventions@gmail.com</string>
+</resources>
